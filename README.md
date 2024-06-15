@@ -13,7 +13,7 @@ A weather dashboard that allows users to quickly check the current weather condi
 
 ## Demo
 
-You can view the live demo of the Weather Dashboard [here](https://your-username.github.io/weather-dashboard).
+You can view the live demo of the Weather Dashboard [here](https://umerghaus.github.io/weather-dashboard).
 
 ## Getting Started
 
